@@ -1,16 +1,15 @@
-### Hi there 👋
+<h2><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Hello there, I am Antonella Di Virgilio  </h2>
 
-<!--
-**antonelladivirgilio/antonelladivirgilio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-Here are some ideas to get you started:
+## Looking for a job
+&nbsp; &nbsp; *[View My CV - EN](https://drive.google.com/file/d/1HNO5AGox2_Wu-h7kWU9m4mc2eLKzyisT/view?usp=sharing)*
+&nbsp; &nbsp; | &nbsp; &nbsp; *[View My CV - ES](https://drive.google.com/file/d/1Eleg_lEfYqbbN2Yx_0kZnNL-kKplurKd/view?usp=sharing)*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/divirgilioantonella/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@divirgilioantonella-blue?style=flat&logo=linkedin"></a>
+<a href="mailto:divirgilioantonella@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-divirgilioantonella@gmail.com-blue?style=flat&logo=gmail"></a>
+</p>
