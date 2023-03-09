@@ -10,6 +10,5 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/divirgilioantonella/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@divirgilioantonella-blue?style=flat&logo=linkedin"></a>
-<a href="mailto:divirgilioantonella@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-divirgilioantonella@gmail.com-blue?style=flat&logo=gmail"></a>
+[![linkein](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/divirgilioantonella/)](https://www.linkedin.com/in/divirgilioantonella/)&nbsp; &nbsp; [![gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:divirgilioantonella@gmail.com)](mailto:divirgilioantonella@gmail.com)
 </p>
