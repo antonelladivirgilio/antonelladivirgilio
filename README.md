@@ -20,6 +20,33 @@ I'm Antonella Di Virgilio, a Frontend Developer <img src="https://media.giphy.co
 </br>
 
 <p align="center">
+ <h2 align="center">Technologies & Tools</h2>
+</p>
+
+<p align="center">
+ <img width="43" src="https://img.icons8.com/officel/1x/react.png" alt="ReactJS logo">
+ <img width="43" src="https://img.icons8.com/dusk/1x/svetle.png" alt="Svelte logo">
+ <img width="43" src="https://img.icons8.com/color/1x/sass.png" alt="Sass logo">
+ <img width="43" src="https://img.icons8.com/fluency/1x/css3.png" alt="CSS logo">
+ <img width="43" src="https://img.icons8.com/fluency/1x/javascript.png" alt="JavaScript logo">
+ <img width="43" src="https://img.icons8.com/fluency/1x/visual-studio-code-2019.png" alt="Visual Studio Code logo">
+</p>
+
+<p align="center">
+  <img width="43" src="https://img.icons8.com/color/1x/nodejs.png" alt="NodeJS logo">
+  <img width="43" src="https://img.icons8.com/fluency/1x/express-js.png" alt="ExpressJS logo"> 
+</p>
+
+<p align="center">
+  <img width="43" src="https://img.icons8.com/color-glass/1x/adobe-illustrator.png" alt="Illustrator logo">
+  <img width="43" src="https://img.icons8.com/fluency/1x/figma.png" alt="Figma logo"> 
+</p>
+
+</br>
+</br>
+</br>
+
+<p align="center">
  <h2 align="center">👀 See my Curriculum Vitae to get more info</h2>
 </p>
 
