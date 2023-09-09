@@ -63,7 +63,7 @@ I'm Antonella Di Virgilio, a Frontend Developer <img src="https://media.giphy.co
 
 <p align="center">
 
-[![linkein](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/divirgilioantonella/)](https://www.linkedin.com/in/divirgilioantonella/)&nbsp; &nbsp; [![gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:divirgilioantonella@gmail.com)](mailto:divirgilioantonella@gmail.com)
+[![linkein](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/divirgilioantonella/)](https://www.linkedin.com/in/divirgilioantonella/)
 
 </p>
 <img src="https://github.com/antonelladivirgilio/antonelladivirgilio/blob/main/github-footer.png" alt="banner that no says anything">
