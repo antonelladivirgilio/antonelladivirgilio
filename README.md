@@ -25,7 +25,7 @@ I'm Antonella Di Virgilio, a Frontend Developer <img src="https://media.giphy.co
 
 <p align="center">
  <img width="43" src="https://img.icons8.com/officel/1x/react.png" alt="ReactJS logo">
- <img width="43" src="https://iconos8.es/icon/wpZmKzk11AzJ/typescript" alt="TypeScript logo">
+ <img width="43" src="https://img.icons8.com/?size=56&id=wpZmKzk11AzJ&format=png" alt="TypeScript logo">
  <img width="43" src="https://img.icons8.com/color/1x/sass.png" alt="Sass logo">
  <img width="43" src="https://img.icons8.com/fluency/1x/css3.png" alt="CSS logo">
  <img width="43" src="https://img.icons8.com/fluency/1x/javascript.png" alt="JavaScript logo">
