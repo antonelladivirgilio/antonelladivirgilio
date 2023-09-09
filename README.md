@@ -39,7 +39,6 @@ I'm Antonella Di Virgilio, a Frontend Developer <img src="https://media.giphy.co
 
 <p align="center">
   <img width="43" src="https://img.icons8.com/color-glass/1x/adobe-illustrator.png" alt="Illustrator logo">
-  <img width="43" src="https://img.icons8.com/fluency/1x/figma.png" alt="Figma logo"> 
 </p>
 
 </br>
