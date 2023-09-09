@@ -1,49 +1,21 @@
-<img src="https://github.com/antonelladivirgilio/antonelladivirgilio/blob/main/github-header.png" alt="banner that says Hi I am Antonella Di Virgilio">
+## 👩🏽‍💻​ Antonella Di Virgilio
 
-### Glad to see you here! <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> ![](https://visitor-badge.glitch.me/badge?page_id=antonelladivirgilio.antonelladivirgilio)
+**`Front-End Developer`**
 
-<p align="center">
- <h2 align="center">A little more about me...</h2>
+I have more than 7 years of hands-on experience efficiently coding websites and applications using modern HTML, CSS with preprocessors, and JavaScript. As a web developer focused on customer satisfaction I am actively seeking out new technologies and stay up-to-date on industry trends and advancements.
+
+<p align="center"> 
+  <a href="https://www.linkedin.com/in/divirgilio-antonella/">
+    <img alt="linkedin" title="contact me on linkedin" src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin"/></a> 
 </p>
 
-<p align="center">
-I'm Antonella Di Virgilio, a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Argentina 🇦🇷  
-. I like delicious food 
-<img src="https://img.icons8.com/fluency/1x/mango.png" width="25">
-<img src="https://img.icons8.com/external-icongeek26-flat-icongeek26/1x/external-spaghetti-fine-dining-icongeek26-flat-icongeek26.png" width="25">
-<img src="https://img.icons8.com/external-flat-andi-nur-abdillah/1x/external-brocoli-vegetable-and-fruit-flat-flat-andi-nur-abdillah.png" width="25">
-<img src="https://img.icons8.com/fluency/1x/ice-cream-cone.png" width="25"> and doing sports <img src="https://img.icons8.com/color/1x/deadlift.png" width="30">
-</p>
-
-</br>
-</br>
-</br>
-
-<p align="center">
- <h2 align="center">Technologies & Tools</h2>
-</p>
-
-<p align="center">
- <img width="43" src="https://img.icons8.com/officel/1x/react.png" alt="ReactJS logo">
- <img width="43" src="https://img.icons8.com/?size=56&id=wpZmKzk11AzJ&format=png" alt="TypeScript logo">
- <img width="43" src="https://img.icons8.com/color/1x/sass.png" alt="Sass logo">
- <img width="43" src="https://img.icons8.com/fluency/1x/css3.png" alt="CSS logo">
- <img width="43" src="https://img.icons8.com/fluency/1x/javascript.png" alt="JavaScript logo">
- <img width="43" src="https://img.icons8.com/fluency/1x/visual-studio-code-2019.png" alt="Visual Studio Code logo">
-</p>
-
-<p align="center">
-  <img width="43" src="https://img.icons8.com/color/1x/nodejs.png" alt="NodeJS logo">
-  <img width="43" src="https://img.icons8.com/fluency/1x/express-js.png" alt="ExpressJS logo"> 
-</p>
-
-<p align="center">
-  <img width="43" src="https://img.icons8.com/color-glass/1x/adobe-illustrator.png" alt="Illustrator logo">
-</p>
-
-</br>
-</br>
-</br>
+### 🧰​ Languages and Tools
+<img align="left" alt="JavaScript" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="React.js" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="TypeScript" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img align="left" alt="HTML" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="Material UI" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg" />
 
 <p align="center">
  <h2 align="center">👀 See my Curriculum Vitae to get more info</h2>
@@ -52,18 +24,3 @@ I'm Antonella Di Virgilio, a Frontend Developer <img src="https://media.giphy.co
 <p align="center">
  <img src="https://img.icons8.com/color/1x/usa.png" width="20"> &nbsp; <a href="https://drive.google.com/file/d/1CEw36cvngDG70Z10crf1kMSLu32eKNIG/view">View My CV</a>
 </p>
-
-</br>
-</br>
-</br>
-
-<p align="center">
- <h2 align="center">🤝🏻 Connect with Me</h2>
-</p>
-
-<p align="center">
-
-[![linkein](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/divirgilioantonella/)](https://www.linkedin.com/in/divirgilioantonella/)
-
-</p>
-<img src="https://github.com/antonelladivirgilio/antonelladivirgilio/blob/main/github-footer.png" alt="banner that no says anything">
