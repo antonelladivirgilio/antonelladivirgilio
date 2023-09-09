@@ -51,8 +51,7 @@ I'm Antonella Di Virgilio, a Frontend Developer <img src="https://media.giphy.co
 </p>
 
 <p align="center">
- <img src="https://img.icons8.com/color/1x/usa.png" width="20"> &nbsp; <a href="https://drive.google.com/file/d/1HNO5AGox2_Wu-h7kWU9m4mc2eLKzyisT/view?usp=sharing">View My CV</a>&nbsp; &nbsp; | &nbsp; &nbsp; 
-  <img src="https://img.icons8.com/color/1x/spain.png" width="20"> &nbsp; <a href="https://drive.google.com/file/d/1Eleg_lEfYqbbN2Yx_0kZnNL-kKplurKd/view?usp=sharing">View My CV</a>
+ <img src="https://img.icons8.com/color/1x/usa.png" width="20"> &nbsp; <a href="https://drive.google.com/file/d/1CEw36cvngDG70Z10crf1kMSLu32eKNIG/view">View My CV</a>
 </p>
 
 </br>
