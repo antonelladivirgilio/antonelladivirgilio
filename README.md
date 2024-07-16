@@ -1,4 +1,4 @@
-### 👩🏽‍💻​ Hi there, I'm Antonella Di Virgilio
+### 👩🏽‍💻​ Hi there,
 
 **`Front-End Developer`**
 
